@@ -55,6 +55,7 @@
 - Microsoft Office Suite
 - Wordpress
 - CPanel
+- Slack
 
 <!---
 initiativist/initiativist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
