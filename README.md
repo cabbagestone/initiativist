@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning javascript and the MEAN stack 
 
 # Skills (Frameworks and languages):
+- HTML/CSS
+  - CSS preprocessing with SASS
 - JavaScript
   - TypeScript
   - Angular (12)
@@ -25,7 +27,7 @@
 - C#
 - Java
 
-# Skills (application):
+# Skills (Development):
 - full stack engineering
 - frontend engineer
 - network troubleshooting and debugging
@@ -33,8 +35,26 @@
 - User Authentication
 - Algorithms and Data Structures
 - Scrum/Agile/XP/Kanban Project Management
-- UI/UX design with Adobe XD
+- UI/UX design with Adobe XD (Google Material Design)
 - Local Software Engineering
+
+# Skills (Software/Services):
+- VS Code
+- Docker
+- pgAdmin 4
+- MS Visual Studio
+- Eclipse
+- Browser Developer Tools
+- GitHub
+- MongoDB Compass/Atlas
+- Adobe Creative Suite
+  - Photoshop
+  - Illustrator
+  - Premiere
+  - AfterEffects
+- Microsoft Office Suite
+- Wordpress
+- CPanel
 
 <!---
 initiativist/initiativist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
