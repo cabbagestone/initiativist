@@ -5,23 +5,23 @@
 
 # Skills (Frameworks and languages):
 - JavaScript
--   TypeScript
--   Angular (12)
--   Node.JS
--   Express
--   NgRx with Redux
--   RxJs
--   NodeMon
+  - TypeScript
+  - Angular (12)
+  - Node.JS
+  - Express
+  - NgRx with Redux
+  - RxJs
+  - NodeMon
 - SQL and NoSQL databases
--   MongoDB with Mongoose
--   PostgreSQL with Sequelize and umzug
--   MySQL
+  - MongoDB with Mongoose
+  - PostgreSQL with Sequelize and umzug
+  - MySQL
 - Dart
--   Flutter
+  - Flutter
 - Python
--   Django
--   Numpy
--   Tkinter
+  - Django
+  - Numpy
+  - Tkinter
 - C#
 - Java
 
