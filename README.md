@@ -28,7 +28,7 @@
 - Java
 
 # Skills (Development):
-- full stack engineering
+- full stack web design
 - frontend engineer
 - network troubleshooting and debugging
 - database management, migrations
@@ -36,7 +36,7 @@
 - Algorithms and Data Structures
 - Scrum/Agile/XP/Kanban Project Management
 - UI/UX design with Adobe XD (Google Material Design)
-- Local Software Engineering
+- Software Engineering
 
 # Skills (Software/Services):
 - VS Code
