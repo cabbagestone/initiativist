@@ -1,7 +1,8 @@
 # Introduction
 - 👋 Hi, I’m @initiativist
+- 💻 I love coding full-stack software with Javascript, C#, Dart, and Python
 - 👀 I’m interested in getting my first coding job!
-- 🌱 I’m currently learning javascript and the MEAN stack 
+- 🌱 I’m currently learning state management with Redux.
 
 # Skills (Frameworks and languages):
 - HTML/CSS
