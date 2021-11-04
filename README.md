@@ -15,6 +15,7 @@
   - NgRx with Redux
   - RxJs
   - NodeMon
+  - React Native
 - SQL and NoSQL databases
   - MongoDB with Mongoose
   - PostgreSQL with Sequelize and umzug
